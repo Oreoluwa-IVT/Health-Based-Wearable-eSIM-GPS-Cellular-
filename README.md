@@ -1,6 +1,6 @@
 # Health-based Wearable
 Building a health-based tracking bracelet. Communication via cellular, location tracking via GPS and UWB and location trigger via touch sensor. Simply push-tap the touch sensor and your location is sent via a text message. ( Project: Collaborative)
-<img src="https://github.com/user-attachments/assets/55031c5b-47f4-44da-be43-cbea9d6fc508" />
+<!--<img src="https://github.com/user-attachments/assets/55031c5b-47f4-44da-be43-cbea9d6fc508" />-->
 
 ## 🚩 Table of Contents
 
@@ -14,7 +14,7 @@ Building a health-based tracking bracelet. Communication via cellular, location 
 - [Used By](#-used-by)
 - [License](#-license)
 
-
+<!--
 ##  Project Description 
 The *energy monitoring* module shown above is an open-source project designed to help enthusiasts monitor energy consumed with the aid of current and voltage sensors. To help address the issue of unclear electric usage and tariffs, you can explore using this unit to wirelessly monitor energy consumption. To ensure easy access to the data acquired by the voltage and current sensors, two wireless communication modules were incorporated onboard. This includes a LoRa_E5 Module to initiate LoRaWAN Communication and a NINA module to provide access to data via WiFi or BLE. *Altium Designer* is the software used for this project.
 
@@ -92,3 +92,4 @@ Below is the board in different views. To see areas of the board not shown below
 
 ## 📜 License
 This software is licensed under the [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) 
+-->
